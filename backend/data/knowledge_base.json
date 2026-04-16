@@ -1,0 +1,212 @@
+[
+  {
+    "id": "kb_001", "topic": "wheat_sowing", "language": "en",
+    "question": "When should I sow wheat in Punjab Pakistan?",
+    "answer": "**Best wheat sowing time in Punjab:** November 1–15 for Rawalpindi and central Punjab. Late sowing after November 25 reduces yield by 1–1.5% per day.\n\n**Recommended varieties:** Punjab-2011, Anaj-2017, Faisalabad-2008, Zincol-2016\n\n**Seed rate:** 50 kg per acre\n**Row spacing:** 22–23 cm\n**Fertilizer at sowing:** 1 bag DAP (50kg) + 0.5 bag Urea (25kg) per acre\n\nIrrigate immediately if soil is dry at sowing time.",
+    "tags": ["wheat", "sowing", "november", "punjab", "rawalpindi", "certified_seed", "gandum"]
+  },
+  {
+    "id": "kb_002", "topic": "wheat_sowing_ur", "language": "ur",
+    "question": "گندم کی بوائی کب کریں؟",
+    "answer": "**پنجاب میں گندم کی بوائی کا بہترین وقت:** راولپنڈی اور وسطی پنجاب کے لیے 1 سے 15 نومبر۔\n\n**تجویز کردہ اقسام:** پنجاب-2011، انج-2017، فیصل آباد-2008\n\n**بیج کی مقدار:** فی ایکڑ 50 کلو\n**قطاروں کا فاصلہ:** 22-23 سینٹی میٹر\n**بوائی کے وقت کھاد:** فی ایکڑ 1 بوری ڈی اے پی + آدھی بوری یوریا\n\n25 نومبر کے بعد بوائی سے فی دن 1-1.5 فیصد پیداوار کم ہوتی ہے۔",
+    "tags": ["گندم", "بوائی", "نومبر", "پنجاب", "راولپنڈی", "wheat", "sowing"]
+  },
+  {
+    "id": "kb_003", "topic": "wheat_irrigation", "language": "en",
+    "question": "How many times should I irrigate wheat? What are the critical irrigation stages?",
+    "answer": "**Wheat needs 4–5 irrigations at critical stages:**\n\n1. **Crown Root (20–25 days after sowing):** MOST CRITICAL — skipping reduces yield 40%\n2. **Tillering (40–45 DAS):** Promotes side shoots and tillers\n3. **Jointing (60–70 DAS):** Stem elongation and grain number\n4. **Booting/Heading (90–100 DAS):** Apply 1 bag Urea with this irrigation\n5. **Grain filling/Milky stage (100–110 DAS):** Determines grain weight\n\nStop irrigation 2 weeks before harvest. Interval between irrigations: 18–25 days depending on weather.",
+    "tags": ["wheat", "irrigation", "water", "stages", "crown_root", "gandum", "pani"]
+  },
+  {
+    "id": "kb_004", "topic": "wheat_fertilizer", "language": "en",
+    "question": "What fertilizer schedule should I follow for wheat?",
+    "answer": "**Wheat Fertilizer Schedule (per acre):**\n\n**At sowing:** 1 bag DAP (50kg) + 0.5 bag Urea (25kg) — mix into soil\n\n**1st irrigation (Crown Root, ~21 DAS):** 1 bag Urea (50kg) broadcast on field\n\n**2nd irrigation (Tillering):** 0.5 bag Urea (25kg)\n\n**3rd irrigation (Heading):** 0.5 bag Urea if crop looks pale/yellow\n\n**Zinc deficiency** (common in Punjab soils): Apply Zinc Sulfate 25kg/acre every 2–3 years\n\nTotal Nitrogen for wheat: 3–4 bags Urea per acre across season.",
+    "tags": ["wheat", "fertilizer", "DAP", "urea", "nitrogen", "zinc", "khaad"]
+  },
+  {
+    "id": "kb_005", "topic": "wheat_rust", "language": "en",
+    "question": "How do I identify and treat yellow rust on wheat?",
+    "answer": "**Yellow Rust (Puccinia striiformis) on Wheat:**\n\n**Symptoms:** Yellow-orange powdery stripes running parallel along leaves. Appears when temperatures are 10–15°C with moisture.\n\n**Treatment:**\n- Tilt 250EC (Propiconazole): 200–250 ml per acre\n- Bumper 250EC: 200 ml per acre\n- Spray in morning when dew is present\n- Repeat after 10–14 days if infection persists\n\n**Prevention:**\n- Use resistant varieties: Punjab-2011, Millat-2011\n- Avoid excessive Nitrogen fertilizer\n- Act when more than 5% leaf area is infected\n\nContact Agriculture helpline: 0800-15000",
+    "tags": ["wheat", "yellow_rust", "rust", "disease", "fungicide", "propiconazole", "zang"]
+  },
+  {
+    "id": "kb_006", "topic": "wheat_rust_ur", "language": "ur",
+    "question": "گندم کی زنگ بیماری کا علاج کیسے کریں؟",
+    "answer": "**گندم کی پیلی زنگ:**\n\n**علامات:** پتوں کی رگوں کے ساتھ پیلے نارنجی دھاریاں، ہاتھ لگانے سے پیلا پاؤڈر آتا ہے۔\n\n**علاج:**\n- ٹلٹ 250EC: فی ایکڑ 200-250 ملی لیٹر\n- بمپر 250EC: فی ایکڑ 200 ملی لیٹر\n- صبح کے وقت سپرے کریں جب اوس ہو\n- 10-14 دن بعد دوبارہ سپرے\n\n**احتیاط:** پنجاب-2011 یا ملت-2011 جیسی مزاحم اقسام استعمال کریں۔\n\nزراعت ہیلپ لائن: 0800-15000",
+    "tags": ["گندم", "زنگ", "بیماری", "علاج", "wheat", "rust"]
+  },
+  {
+    "id": "kb_007", "topic": "rice_cultivation", "language": "en",
+    "question": "When and how should I grow rice in Punjab?",
+    "answer": "**Rice Cultivation in Punjab:**\n\n**Nursery raising:** May 20–31\n**Transplanting:** June 15 – July 15 (late June is optimal)\n\n**Popular varieties:** Super Basmati, Basmati-385, IRRI-6, KSK-282\n\n**Transplanting:** 20×20 cm spacing, 2–3 seedlings per hill, 4–5 week old nursery\n\n**Water:** Keep 5cm standing water during vegetative stage\n\n**Fertilizer:**\n- At transplanting: 1 bag DAP\n- 30 days: 1 bag Urea\n- 60 days: 1 bag Urea\n\n**Maturity:** 100–120 days depending on variety",
+    "tags": ["rice", "paddy", "basmati", "transplanting", "chawal", "nursery", "punjab"]
+  },
+  {
+    "id": "kb_008", "topic": "cotton_pest_whitefly", "language": "en",
+    "question": "How do I control whitefly on cotton?",
+    "answer": "**Whitefly (Bemisia tabaci) Control on Cotton:**\n\nWhitefly spreads Leaf Curl Virus — Pakistan's most damaging cotton disease.\n\n**Economic threshold:** 8–10 nymphs per leaf\n\n**Chemical control (rotate to prevent resistance):**\n- Imidacloprid 200SL: 250 ml per acre\n- Acetamiprid 20SP: 100 g per acre\n- Spiromesifen 240SC: 200 ml per acre\n\n**Application:** Spray morning or evening. Cover leaf undersides.\n\n**Cultural control:**\n- Remove heavily infested leaves\n- Avoid excessive Nitrogen (causes lush growth attracting pests)\n- Plant early (April–May) to avoid peak whitefly season\n\n**Never mix two chemicals** — rotate between modes of action.",
+    "tags": ["cotton", "whitefly", "pest", "imidacloprid", "leaf_curl", "kapas", "safed_makhi"]
+  },
+  {
+    "id": "kb_009", "topic": "cotton_pest_ur", "language": "ur",
+    "question": "کپاس کی سفید مکھی کا علاج کیا ہے؟",
+    "answer": "**کپاس پر سفید مکھی کنٹرول:**\n\nسفید مکھی پتہ مروڑ وائرس پھیلاتی ہے جو پاکستان میں کپاس کا سب سے خطرناک مرض ہے۔\n\n**کیمیائی علاج:**\n- امیڈاکلوپرڈ 200SL: فی ایکڑ 250 ملی لیٹر\n- ایسیٹامیپرڈ 20SP: فی ایکڑ 100 گرام\n- صبح یا شام سپرے کریں\n\n**مختلف ادویات باری باری استعمال کریں** تاکہ مزاحمت نہ پیدا ہو۔\n\n**ثقافتی طریقے:** متاثرہ پتے ہٹائیں، زیادہ یوریا نہ ڈالیں۔\n\nزراعت ہیلپ لائن: 0800-15000",
+    "tags": ["کپاس", "سفید مکھی", "کیڑا", "cotton", "whitefly"]
+  },
+  {
+    "id": "kb_010", "topic": "maize_cultivation", "language": "en",
+    "question": "How do I grow maize in Punjab? When to plant and what fertilizer?",
+    "answer": "**Maize (Makki) Cultivation in Punjab:**\n\n**Sowing seasons:**\n- Spring: March–April\n- Autumn/Kharif: July–August\n\n**Recommended hybrids:** DK-6142, Pioneer 31R88, DEKALB varieties\n**Seed rate:** 8–10 kg/acre (hybrid)\n**Plant spacing:** 75cm rows × 22cm plants\n\n**Fertilizer (per acre):**\n- At sowing: 1 bag DAP + 1 bag Urea\n- Knee-high stage: 1.5 bags Urea\n- Tasseling: 1 bag Urea\n\n**Irrigation:** Critical at germination, knee-high, tasseling, grain fill. Needs 6–8 irrigations.\n\nMaize is highly profitable due to poultry feed demand in Punjab.",
+    "tags": ["maize", "corn", "makki", "hybrid", "punjab", "kharif", "spring"]
+  },
+  {
+    "id": "kb_011", "topic": "sugarcane_planting", "language": "en",
+    "question": "How and when do I plant sugarcane in Punjab?",
+    "answer": "**Sugarcane Planting in Punjab:**\n\n**Best season:** Spring planting February–March (better than Autumn)\n\n**Method:** Trench system\n- Dig trenches 90cm apart, 15–20cm deep\n- Use 3-eye setts (seed pieces with 3 buds)\n- Rate: 37,000–40,000 setts per acre\n- Cover with 5–7cm soil\n- Irrigate immediately after planting\n\n**Recommended varieties:** CPF-246, HSF-242, SPF-234\n\n**Fertilizer:**\n- At planting: 1 bag DAP + 0.5 bag SOP\n- 45 days: 1 bag Urea\n- 90 days: 1 bag Urea\n\n**Irrigation:** Every 10–15 days during growing season",
+    "tags": ["sugarcane", "ganna", "planting", "february", "march", "setts", "punjab"]
+  },
+  {
+    "id": "kb_012", "topic": "fall_armyworm", "language": "en",
+    "question": "How to control fall armyworm on maize?",
+    "answer": "**Fall Armyworm (Spodoptera frugiperda) on Maize:**\n\n**Identification:** Window-pane feeding on young leaves, ragged edges, fresh frass (droppings) inside the whorl, small caterpillars with an inverted 'Y' on their head.\n\n**Economic threshold:** 10–15% plants infested\n\n**Control:**\n- **Early stage (small caterpillars):** Emamectin benzoate 1.9EC at 250ml/acre\n- **Larger caterpillars:** Chlorpyrifos 40EC at 500ml/acre\n- **Spray directly into the whorl** for best effect\n- Bt (Bacillus thuringiensis) spray for organic option\n\n**Cultural:** Early planting avoids peak infestation; destroy crop residues\n\nCheck plants twice weekly during vegetative stage.",
+    "tags": ["maize", "fall_armyworm", "pest", "emamectin", "chlorpyrifos", "makki", "keera"]
+  },
+  {
+    "id": "kb_013", "topic": "kissan_card", "language": "en",
+    "question": "What is the Kissan Card scheme? How do I register?",
+    "answer": "**Punjab Kissan Card Scheme:**\n\nGovernment of Punjab provides subsidized agricultural inputs to registered farmers through a debit card.\n\n**Benefits:**\n- Rs. 25,000–50,000 credit per crop season\n- Buy seeds, fertilizer, pesticides from registered dealers\n- Interest-free or subsidized markup loans\n- Eligible: farmers up to 25 acres\n\n**How to register:**\n1. Visit your local Agriculture Department office or Tehsil office\n2. Bring: CNIC, land ownership or tenancy documents, recent utility bill\n3. Fill application form — free of charge\n4. Card issued within 2–4 weeks\n\n**Helpline:** 0800-15000 (free call)\n**Portal:** kisanportal.punjab.gov.pk",
+    "tags": ["kissan_card", "kisan_card", "government_scheme", "subsidy", "registration", "punjab", "free"]
+  },
+  {
+    "id": "kb_014", "topic": "kissan_card_ur", "language": "ur",
+    "question": "کسان کارڈ کیا ہے اور اس کے لیے رجسٹریشن کیسے کریں؟",
+    "answer": "**پنجاب کسان کارڈ سکیم:**\n\nپنجاب حکومت رجسٹرڈ کسانوں کو ڈیبٹ کارڈ کے ذریعے سبسڈی پر زرعی اشیاء دیتی ہے۔\n\n**فوائد:**\n- فی فصل سیزن 25,000 سے 50,000 روپے کریڈٹ\n- رجسٹرڈ ڈیلروں سے بیج، کھاد، کیڑے مار دوائیں خریدیں\n- 25 ایکڑ تک کے کسانوں کے لیے\n\n**رجسٹریشن کا طریقہ:**\n1. مقامی محکمہ زراعت یا تحصیل آفس جائیں\n2. ساتھ لائیں: شناختی کارڈ، زمین کی دستاویزات، بجلی کا بل\n3. فارم بھریں — مفت\n4. 2-4 ہفتوں میں کارڈ مل جاتا ہے\n\n**ہیلپ لائن:** 0800-15000 (مفت)",
+    "tags": ["کسان کارڈ", "حکومتی سکیم", "سبسڈی", "رجسٹریشن", "kissan_card", "scheme"]
+  },
+  {
+    "id": "kb_015", "topic": "ZTBL_loan", "language": "en",
+    "question": "How do I get an agricultural loan from ZTBL bank?",
+    "answer": "**ZTBL (Zarai Taraqiati Bank) Agricultural Loans:**\n\n**Loan Types:**\n1. **Production loans:** Seeds, fertilizer, pesticides for one season — up to Rs. 500,000\n2. **Development loans:** Tube well, machinery, orchard — longer tenure\n3. **Livestock loans:** Cattle, buffalo, poultry purchase\n\n**How to apply:**\n1. Visit nearest ZTBL branch with: CNIC, land papers, recent utility bill\n2. ZTBL officer does field inspection\n3. Loan disbursed within 7–14 days\n\n**Interest rate:** 3–5% concessional for small farmers under government schemes\n\n**Contact:**\n- ZTBL Helpline: 0800-35000 (free)\n- Website: www.ztbl.com.pk\n- PM Youth Agriculture Loan Scheme also available via ZTBL",
+    "tags": ["ZTBL", "loan", "credit", "bank", "agriculture_finance", "qarz", "zarai"]
+  },
+  {
+    "id": "kb_016", "topic": "fasal_bima", "language": "en",
+    "question": "Is there crop insurance available for Pakistani farmers?",
+    "answer": "**Fasal Bima — Crop Insurance for Pakistan Farmers:**\n\n**Covered crops:** Wheat, Cotton, Sugarcane, Rice\n**Covered risks:** Flood, drought, hailstorm, frost, locust\n\n**How it works:**\n- Government subsidizes premium: farmer pays only 2–4% of insured amount\n- Sum insured based on district average yield × input cost\n- Claim filed within 72 hours of crop loss with District Agriculture Officer\n\n**Enrollment:**\n- Via bank at loan disbursement time (automatic for ZTBL/BOP loan borrowers)\n- Non-loan farmers: register at Agriculture Department\n\n**Contact:**\n- ZTBL: 051-9252232\n- Bank of Punjab: 111-267-200\n- Agriculture helpline: 0800-15000",
+    "tags": ["crop_insurance", "fasal_bima", "insurance", "flood", "drought", "ZTBL", "scheme"]
+  },
+  {
+    "id": "kb_017", "topic": "fertilizer_subsidy", "language": "en",
+    "question": "Are there fertilizer subsidies available? How do I get subsidized DAP and Urea?",
+    "answer": "**Fertilizer Subsidies in Punjab:**\n\n**Current situation:** Government controls Urea prices. Urea sold at government-approved rate (~Rs. 2,000–2,200 per 50kg bag) at registered dealers.\n\n**How to access subsidized fertilizer:**\n1. Register on Kissan Portal: kisanportal.punjab.gov.pk\n2. Get a Kissan Card from local Agriculture Department\n3. Buy from licensed/registered dealers only\n4. Keep receipt — useful for claim if you receive adulterated product\n\n**Beware of fake fertilizer:**\n- Check NFDC (National Fertilizer Development Corporation) seal on bag\n- Check batch number and expiry date\n- Report fake fertilizer: 0800-15000\n\n**PASSCO:** Sets wheat support prices. Check: www.passco.com.pk",
+    "tags": ["fertilizer", "subsidy", "urea", "DAP", "PASSCO", "khaad", "sasta"]
+  },
+  {
+    "id": "kb_018", "topic": "pest_locust", "language": "en",
+    "question": "How do I protect crops from locust attack? Tiddi Dal control.",
+    "answer": "**Locust (Tiddi Dal) Protection:**\n\n**Early warning:**\n- Register with District Agriculture Office for alerts\n- Pakistan Agricultural Research Council (PARC) monitors swarms\n- Report sightings: call 0800-15000 IMMEDIATELY\n\n**Government action:** Aerial spray conducted by government during outbreaks — free pesticides provided to affected farmers.\n\n**Farm-level control (small swarms):**\n- Malathion 57EC: 1.5–2 liters/acre\n- Chlorpyrifos 40EC: 1.5 liters/acre\n- Spray at dawn before swarms become active\n\n**Physical barriers:** Plastic sheets around field edges deter ground hoppers\n\n**Warning:** Never spray without protective equipment. Malathion is toxic — wear mask, gloves, full clothing.",
+    "tags": ["locust", "tiddi_dal", "pest", "malathion", "PARC", "swarm", "spray"]
+  },
+  {
+    "id": "kb_019", "topic": "frost_protection", "language": "en",
+    "question": "How do I protect crops from frost in winter? Pala protection.",
+    "answer": "**Frost (Pala) Protection for Crops:**\n\n**Monitor:** Check PMD (Pakistan Meteorological Department) forecasts: www.pmd.gov.pk — frost advisories issued for major crops.\n\n**Protection methods:**\n1. **Irrigate the evening before frost:** Wet soil releases heat, raises field temperature 2–3°C\n2. **Smoke method:** Burn crop residue at field edges on frosty nights (traditional, effective)\n3. **Plastic covers:** Cover vegetables and seedlings with plastic sheets overnight\n4. **Wind protection:** Plant windbreaks on north side of orchards\n5. **Spray calcium chloride** on fruit trees before expected frost\n\n**Most vulnerable crops in Rawalpindi/Potohar:** Citrus, peach, vegetables, potato seedlings\n\n**Frost season in Rawalpindi:** December–February (hardest: January)",
+    "tags": ["frost", "pala", "winter", "crop_protection", "irrigation", "rawalpindi", "potohar", "smoke"]
+  },
+  {
+    "id": "kb_020", "topic": "vegetables_rawalpindi", "language": "en",
+    "question": "What vegetables can I grow in Rawalpindi in winter?",
+    "answer": "**Winter Vegetables for Rawalpindi/Potohar:**\n\nWinter vegetables earn Rs. 80,000–150,000/acre — far more than wheat!\n\n**High-value options:**\n- **Cauliflower & Cabbage:** Sow Sep–Oct, transplant Oct, harvest Dec–Feb. 45×45cm spacing\n- **Spinach (Palak):** Sow Oct–Nov directly, harvest 40–50 days. Easy and profitable\n- **Peas (Matar):** Sow Oct–Nov, harvest Dec–Jan. Best price before Christmas\n- **Radish (Mooli):** Sow Sep–Oct, harvest 40–50 days\n- **Garlic:** Plant Oct–Nov, harvest April–May\n- **Turnip (Shaljam):** Sow Oct, very easy to grow\n- **Potato:** Plant late September, harvest January–February\n\n**Tip:** Sell early-season vegetables (Oct–Nov) for highest prices.",
+    "tags": ["vegetables", "winter", "rawalpindi", "potohar", "sabzi", "palak", "matar", "cauliflower"]
+  },
+  {
+    "id": "kb_021", "topic": "soil_preparation", "language": "en",
+    "question": "How should I prepare my soil before planting? What is soil testing?",
+    "answer": "**Soil Preparation Best Practices:**\n\n1. **Deep plowing:** 25–30cm deep after previous harvest — breaks hardpan, improves drainage\n2. **Disk harrowing:** 2–3 passes to break clods and level field\n3. **Organic matter:** Apply 4–6 tons/acre of well-rotted farmyard manure (FYM) before plowing\n4. **Laser leveling:** Saves 30–40% water and increases yield 8–10%. Available for hire from Agriculture Department\n\n**Soil Testing:**\n- Get soil tested every 3 years — saves fertilizer cost\n- Available at: Agriculture Department offices, NARC (Islamabad), University of Agriculture labs\n- Costs Rs. 500–1,000 per sample\n- Shows N, P, K, pH, organic matter — tells you exactly what to add\n\n**Contact NARC:** 051-9255023",
+    "tags": ["soil", "preparation", "plowing", "FYM", "soil_testing", "laser_leveling", "zameen"]
+  },
+  {
+    "id": "kb_022", "topic": "water_conservation", "language": "en",
+    "question": "How can I save water on my farm? Water conservation methods.",
+    "answer": "**Water Conservation Methods for Punjab Farmers:**\n\n1. **Laser land leveling:** Saves 20–40% water, increases yield 8–10% — best investment for any farm\n2. **Raised bed planting for wheat:** Saves 1–2 irrigations, improves drainage\n3. **Furrow irrigation for sugarcane:** Instead of flooding — saves 30% water\n4. **Drip/sprinkler for vegetables/orchards:** Reduces water use 30–50%, available on subsidy\n5. **Irrigate at night or early morning:** Reduces evaporation by 20–30%\n6. **Mulching vegetables:** Plastic or crop residue mulch retains soil moisture\n\n**Signs crop needs water:**\n- Wheat: leaves roll inward in afternoon\n- Cotton: leaves wilt in midday heat\n- Maize: leaves curl, dark green turns pale\n\n**WAPDA/Irrigation Dept:** For canal water schedule issues: District Irrigation Office",
+    "tags": ["water", "irrigation", "conservation", "laser_leveling", "pani", "bachat", "drip"]
+  },
+  {
+    "id": "kb_023", "topic": "pesticide_safety", "language": "en",
+    "question": "How do I safely use pesticides? What safety precautions should I take?",
+    "answer": "**Pesticide Safety — Very Important!**\n\n**Before spraying:**\n- Read label carefully — note dose, target pest, PHI (pre-harvest interval)\n- Wear PPE: gloves, mask/respirator, goggles, full sleeves, closed shoes\n- Never spray in hot sun, strong wind, or rain\n\n**While spraying:**\n- Spray in morning (5–9am) or evening (5–7pm)\n- Never eat, drink, or smoke while applying\n- Spray with wind direction, never against it\n\n**After spraying:**\n- Wash hands, face, and neck thoroughly with soap\n- Wash clothing separately from family clothes\n- Store pesticides in original containers, locked away from children\n\n**If poisoning occurs:**\n- Move person to fresh air immediately\n- Call **1122 (Rescue Punjab)** — Emergency\n- Show pesticide label to doctor\n- NEVER give milk or oil to a poisoned person",
+    "tags": ["pesticide", "safety", "PPE", "poisoning", "1122", "spray", "zeher"]
+  },
+  {
+    "id": "kb_024", "topic": "potohar_rainfed", "language": "en",
+    "question": "What crops are best for the Potohar rainfed (barani) area near Rawalpindi?",
+    "answer": "**Best Rainfed (Barani) Crops for Potohar/Rawalpindi:**\n\n**High value:**\n- **Groundnut (Mungphali):** Best barani crop for Potohar! Sow May–June. Varieties: BARI Mungphali-2012. Yield: 10–15 maunds/acre in rainfed conditions\n- **Gram/Chickpea (Chana):** Rabi crop, sow October–November without irrigation\n\n**Reliable crops:**\n- **Sorghum/Millet (Jowar/Bajra):** Drought-tolerant, excellent fodder\n- **Sunflower:** Tolerates Potohar's irregular rainfall\n- **Sesame (Til):** Low water requirement, good oil crop\n\n**Water harvesting:**\n- Build small ponds (Khal) to store rainwater for supplemental irrigation\n- Bunds (field borders) trap runoff\n\n**Agroforestry:** Eucalyptus or Shisham trees on bunds add income without using cropland",
+    "tags": ["potohar", "rainfed", "barani", "groundnut", "mungphali", "rawalpindi", "drought", "chana"]
+  },
+  {
+    "id": "kb_025", "topic": "organic_farming", "language": "en",
+    "question": "How can I start organic farming? Compost making.",
+    "answer": "**Starting Organic Farming in Punjab:**\n\n**Compost Making (simple method):**\n1. Mix: animal manure (1 part) + crop residue (2 parts) + soil (1 part)\n2. Keep moist (not waterlogged), turn every 15 days\n3. Ready in 45–60 days — dark brown, earthy smell\n4. Apply 4–6 tons/acre before plowing\n\n**Green manure:**\n- Grow Sesbania (Jantar) or Berseem, then plow into soil before main crop\n- Adds 40–60 kg Nitrogen/acre — saves 1 bag of Urea!\n\n**Biopesticides:**\n- Neem extract spray (boil neem leaves, strain, spray)\n- Bt (Bacillus thuringiensis) for caterpillar pests\n\n**Premium markets for organic:**\n- Islamabad/Lahore farmers markets\n- Organic premium: 30–100% higher prices\n\n**Certification:** Control Union Pakistan — 2–3 year transition period\n**NARC training:** www.narc.gov.pk — free organic farming workshops",
+    "tags": ["organic", "compost", "green_manure", "neem", "NARC", "certification", "fertilizer"]
+  },
+  {
+    "id": "kb_026", "topic": "seed_treatment", "language": "en",
+    "question": "How should I treat seeds before sowing to prevent disease?",
+    "answer": "**Seed Treatment Before Sowing:**\n\n**Wheat (prevents smut, bunt, seedling diseases):**\n- Raxil (Tebuconazole): 1.5 ml per kg of seed\n- Method: Put seed in plastic bag, add chemical, shake well, dry 30 min, then sow\n\n**Maize:**\n- Thiram 75WP: 2.5 g per kg seed prevents seedling rot\n\n**Cotton:**\n- Most commercial seeds come pre-treated. Do NOT wash them.\n\n**Chickpea/Pulses — Rhizobium inoculation:**\n- Mix Rhizobium culture (from Agriculture Dept) with seeds before sowing\n- Fixes nitrogen from air — saves 1 bag Urea, improves yield 15–20%\n- Cost: Rs. 200–300 per acre\n\n**Solar treatment (traditional):**\n- Spread seeds in thin layer on black plastic in full sun for 4–5 hours\n- Effective against some surface fungal spores\n\nAvailable at: Agriculture Department offices, approved dealers",
+    "tags": ["seed_treatment", "fungicide", "smut", "bunt", "rhizobium", "beej", "treatment"]
+  },
+  {
+    "id": "kb_027", "topic": "market_prices", "language": "en",
+    "question": "Where can I check crop prices? How to get best prices for my produce?",
+    "answer": "**Checking Mandi Prices:**\n\n**Official sources:**\n- **Kissan Portal:** kisanportal.punjab.gov.pk — daily commodity prices\n- **PASSCO:** www.passco.com.pk — wheat support price\n- **KCA (Karachi Cotton Association):** Cotton rates\n- **Agri Mandi App:** Real-time prices across Pakistan\n\n**Punjab Agriculture Department:** Agripunjab.gov.pk\n\n**Tips to get best prices:**\n1. **Don't sell immediately after harvest** — prices are lowest then\n2. **Store properly:** Wheat can store 4–6 months if dry (moisture < 12%)\n3. **Sell wheat after January** when prices rise\n4. **Avoid arthis (middlemen)** — try to sell directly to mills or PASSCO\n5. **Form farmer groups** — collective selling gets better prices\n\n**SMS alerts:** Register for Kissan Portal SMS alerts for prices\n**Helpline:** 0800-15000",
+    "tags": ["market_prices", "mandi", "wheat_price", "cotton", "PASSCO", "selling", "farokht"]
+  },
+  {
+    "id": "kb_028", "topic": "climate_adaptation", "language": "en",
+    "question": "How is climate change affecting farming in Punjab? What should I do?",
+    "answer": "**Climate Change Impact on Punjab Agriculture:**\n\n**Current impacts:**\n- Rising temperatures shortening wheat grain-filling period\n- More irregular rainfall — longer dry spells + sudden heavy rains\n- Earlier spring — affects fruit tree flowering\n- New pests appearing in areas they weren't before\n\n**Adaptation strategies:**\n1. **Heat-tolerant wheat:** NARC-2019, Zincol-2016 for late sowing situations\n2. **Shift sowing dates** 1–2 weeks earlier as temperatures warm\n3. **Crop diversification:** Don't depend on 1–2 crops\n4. **Conservation agriculture:** Minimum tillage preserves soil moisture, reduces erosion\n5. **Don't burn crop residue:** It destroys soil biology and releases carbon\n6. **Water harvesting ponds** for Potohar/barani areas\n7. **Agroforestry:** Trees + crops together is more resilient\n\n**NARC research:** Contact www.narc.gov.pk for climate-resilient varieties",
+    "tags": ["climate_change", "heat_stress", "drought", "adaptation", "conservation", "NARC"]
+  },
+  {
+    "id": "kb_029", "topic": "peach_orchard", "language": "en",
+    "question": "How do I grow peaches in Rawalpindi Potohar region?",
+    "answer": "**Peach Orchard in Potohar/Rawalpindi — Highly Profitable!**\n\nPotohar's climate is ideal for peach. Established orchards earn Rs. 200,000–500,000/acre!\n\n**Varieties:** Flordaprince, Earligold, Potohari local peach\n**Planting time:** December–January (dormant season)\n**Spacing:** 5×5 meters for standard trees\n\n**Pit preparation:**\n- Dig 1×1×1 meter pits\n- Fill with: topsoil + 2 buckets FYM + 250g DAP\n- Plant and firm soil around roots\n\n**Management:**\n- **Training:** Open center/vase shape for sunlight\n- **Pruning:** January — remove deadwood, crossing branches\n- **Fruit thinning:** Remove excess fruit at marble size for bigger fruit\n- **Irrigation:** 3–4 critical irrigations: after bloom, fruit development, harvest\n\n**Disease:** Brown rot — spray Captan before harvest\n\n**Market:** Rawalpindi/Islamabad fruit markets (Sabzi Mandi)",
+    "tags": ["peach", "orchard", "potohar", "rawalpindi", "aloo_bukhara", "fruit", "baagh"]
+  },
+  {
+    "id": "kb_030", "topic": "livestock_integration", "language": "en",
+    "question": "How can I integrate livestock with farming? Berseem for fodder.",
+    "answer": "**Integrated Crop-Livestock Farming:**\n\n**Berseem (Egyptian Clover) — The best winter fodder:**\n- Sow October–November, harvest multiple cuts through March\n- Also fixes nitrogen in soil — reduces fertilizer need for next crop\n- Yield: 8–10 cuts at 10–15 days intervals\n\n**Manure management:**\n- 1 cattle/buffalo produces ~5 kg manure/day = 1.8 tons/year\n- Reduces fertilizer cost Rs. 5,000–10,000 per year\n- Proper composting prevents nutrient loss\n\n**Biogas:**\n- 2 cattle manure → enough biogas for cooking + light\n- ZTBL/PPAF provide loans for biogas plants\n\n**Breed improvement:**\n- Artificial Insemination (AI) via Livestock Department: free or Rs. 200/service\n- Improved breeds: 15–20 liters milk/day vs 5–8 liters local breeds\n\n**Contact:** Livestock & Dairy Development Dept Punjab: 0800-16000",
+    "tags": ["livestock", "berseem", "manure", "biogas", "fodder", "cattle", "dairy", "chara"]
+  },
+  {
+    "id": "kb_031", "topic": "tech_apps", "language": "en",
+    "question": "What technology apps and resources are available for Pakistani farmers?",
+    "answer": "**Digital Resources for Pakistani Farmers:**\n\n**Mobile Apps (free, Urdu available):**\n- **Pakistan Agriculture App (Punjab IT Board):** Weather, mandi prices, advisory\n- **Khushaal Kissan App:** Government scheme info\n- **Agri Mandi App:** Real-time crop prices\n- **PMD App:** Weather forecasts (Pakistan Meteorological Department)\n\n**Websites:**\n- agripunjab.gov.pk — Punjab Agriculture Department\n- narc.gov.pk — Research, new varieties\n- pmd.gov.pk — Weather forecasts, frost/flood advisories\n- kisanportal.punjab.gov.pk — Kissan Card, prices, registration\n\n**YouTube (Urdu):**\n- NARC Pakistan channel\n- Agriculture University Faisalabad\n- Many extension officers run helpful channels\n\n**WhatsApp groups:**\n- Ask your District Agriculture Officer to add you to advisory groups\n- Daily messages about weather, pests, prices\n\n**SMS alerts:** Register on Kissan Portal for free SMS",
+    "tags": ["technology", "apps", "digital", "weather", "market_prices", "youtube", "mobile"]
+  },
+  {
+    "id": "kb_032", "topic": "general_advice_ur", "language": "ur",
+    "question": "زراعت کے بارے میں عام سوالات کا جواب",
+    "answer": "میں کسان AI مشیر ہوں — پنجاب، پاکستان کے کسانوں کے لیے۔\n\n**میں ان موضوعات پر مدد کر سکتا ہوں:**\n- گندم، چاول، مکئی، کپاس، گنا کی کاشت\n- کیڑوں اور بیماریوں کا علاج\n- کھادوں کی تجویز\n- آبپاشی کا طریقہ\n- حکومتی سکیمیں (کسان کارڈ، ZTBL قرضے، فصل بیمہ)\n- موسم سے فصل کی حفاظت\n- منڈی کی قیمتیں\n\n**مفید رابطے:**\n- زراعت ہیلپ لائن: 0800-15000 (مفت)\n- ZTBL: 0800-35000\n- ریسکیو: 1122\n\nاپنا سوال اردو یا انگریزی میں پوچھیں!",
+    "tags": ["عام", "مدد", "general", "help", "agriculture", "pakistan", "punjab"]
+  },
+  {
+    "id": "kb_033", "topic": "wheat_harvest", "language": "en",
+    "question": "When and how should I harvest wheat? How do I thresh and store it?",
+    "answer": "**Wheat Harvest, Threshing & Storage:**\n\n**When to harvest:**\n- When grain is fully hard and golden yellow\n- Moisture content: 12–14% (bite test: grain should be hard, not doughy)\n- April in Rawalpindi, April–May in rest of Punjab\n\n**Harvesting:**\n- Combine harvester: most efficient, available for hire ~Rs. 3,000–4,000/acre\n- Manual: cut with sickle, bundle, thresh separately\n\n**Threshing:** Use threshing machine (thrash). Set to avoid grain damage.\n\n**Cleaning & drying:**\n- Winnow to remove chaff\n- Dry in sun if moisture is above 12%\n\n**Storage:**\n- Metal or concrete bins are best\n- Traditional: wheat bags stored in dry, ventilated room\n- Add Phostoxin tablets for insect control (follow label!)\n- Keep away from moisture, insects, rats\n\n**Sell or store?** PASSCO buys at support price April–June.",
+    "tags": ["wheat", "harvest", "threshing", "storage", "PASSCO", "sell", "kataai", "gandum"]
+  },
+  {
+    "id": "kb_034", "topic": "pomegranate_guava", "language": "en",
+    "question": "What fruit trees are profitable in Punjab Pakistan?",
+    "answer": "**Profitable Fruit Trees for Punjab:**\n\n**Citrus (Kinoo/Mosambi) — Punjab's #1 fruit crop:**\n- Sargodha region is best but grows well in central Punjab\n- Starts bearing: 3–4 years, full production: 6–7 years\n- Income potential: Rs. 150,000–300,000/acre at maturity\n\n**Guava (Amrood):**\n- Fast to bear fruit: 2–3 years\n- 2 crops per year\n- Income: Rs. 80,000–150,000/acre\n- Variety: Safeda, Gola\n\n**Pomegranate (Anar):**\n- Drought tolerant — good for Potohar!\n- Bears fruit in 2–3 years\n- Growing export demand\n\n**Date Palm (Khajoor):**\n- Best for dry/hot areas of Punjab\n- Long productive life (50+ years)\n\n**Mango (Aam):**\n- Multan/Rahim Yar Khan specialty\n- Requires hot summers — limited in Rawalpindi area\n\n**Subsidy:** Punjab government offers subsidy on certified fruit plants. Contact Agriculture Dept.",
+    "tags": ["fruit", "citrus", "kinoo", "guava", "pomegranate", "amrood", "anar", "orchard", "punjab"]
+  },
+  {
+    "id": "kb_035", "topic": "drone_modern_farming", "language": "en",
+    "question": "What is modern precision farming? How can I use drones and modern technology?",
+    "answer": "**Modern Precision Farming in Pakistan:**\n\n**Drone spraying (available in Punjab now):**\n- Agricultural drones available for hire in major cities: Rs. 800–1,200/acre\n- Saves water: uses 10–15 liters/acre vs 200+ liters by tractor sprayer\n- Better coverage including leaf undersides\n- Contact: local agriculture input dealers, or search 'drone spray Punjab'\n\n**GPS-guided laser leveling:**\n- Highly recommended — saves 30–40% water\n- Government subsidizes service\n\n**Soil sensors and testing kits:**\n- Digital soil pH meters: Rs. 2,000–5,000 from online stores\n- Allow real-time monitoring\n\n**Online selling:**\n- Menagerie, Farmdar, and other platforms connect farmers to buyers directly\n- Avoid middleman (arthi)\n\n**Government support:** PM's agriculture technology package offers subsidies on precision equipment.\n\n**Future:** Pakistan's government is promoting agriculture startups — SMEDA offers free training: smeda.org.pk",
+    "tags": ["drone", "precision_farming", "modern", "technology", "GPS", "subsidy", "SMEDA"]
+  }
+]
