@@ -79,7 +79,7 @@ origins = [o.strip() for o in raw_origins.split(",") if o.strip()]
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=https://kissan-ai-advisor.vercel.app,
+    allow_origins=["https://kissan-ai-advisor.vercel.app"],
     allow_credentials=True,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["Content-Type", "Authorization"],
